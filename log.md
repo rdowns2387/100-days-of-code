@@ -8,3 +8,10 @@
 
 **Link to work:** [2017 Meals Resolution app](http://codepen.io/rdowns2387/pen/ZLERYx)
 
+### Day 1: January 4, 2017
+
+**Today's Progress**: Not much going on today. Switched to jQuery when plain JavaScript was stumping. Much easier flow now, but spent the hour today banging my head against the wall.
+
+**Thoughts:** Still need to figure out some styling... But want to get it completely functional first.
+
+**Link to work:** [2017 Meals Resolution app](http://codepen.io/rdowns2387/pen/ZLERYx)
