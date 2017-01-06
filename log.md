@@ -15,3 +15,11 @@
 **Thoughts:** Still need to figure out some styling... But want to get it completely functional first.
 
 **Link to work:** [2017 Meals Resolution app](http://codepen.io/rdowns2387/pen/ZLERYx)
+
+### Day 2: January 5, 2017
+
+**Today's Progress**: Got through the logic of the app. Starting working on LocalStorage to track the number of meals eaten, but I'm not very familiar with localStorage and haven't gotten it to work quite yet... But that's what tomorrow's for!
+
+**Thoughts:** Practice makes perfect. I've used pretty much all of the things I've used in this project in real work projects, but I'm so rusty it's crazy!
+
+**Link to work:** [2017 Meals Resolution app](http://codepen.io/rdowns2387/pen/ZLERYx)
