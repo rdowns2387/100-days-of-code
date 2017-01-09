@@ -23,3 +23,9 @@
 **Thoughts:** Practice makes perfect. I've used pretty much all of the things I've used in this project in real work projects, but I'm so rusty it's crazy!
 
 **Link to work:** [2017 Meals Resolution app](http://codepen.io/rdowns2387/pen/ZLERYx)
+
+### Day 3: January 8, 2017
+
+**Today's Progress**: All set with localStorage! Have to clean up the javascript so that it's not janky, but figured out how to get it to store and show progress. Now I want to get to data visualization and styling
+
+**Thoughts:** Taking two days off (accidentally) felt kind of weird getting back into the swing. But I did have some clarity I don't think was there a few days ago...
