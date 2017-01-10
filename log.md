@@ -29,3 +29,9 @@
 **Today's Progress**: All set with localStorage! Have to clean up the javascript so that it's not janky, but figured out how to get it to store and show progress. Now I want to get to data visualization and styling
 
 **Thoughts:** Taking two days off (accidentally) felt kind of weird getting back into the swing. But I did have some clarity I don't think was there a few days ago...
+
+### Day 4: January 9, 2017
+
+**Today's Progress**: App is working, and even added in the percentage of meals cooked to date (out of the day of the year x 3). Spent lunch working out some styling, only half applied so far. 
+
+**Thoughts:** Today was a bit of a rush day, but I'm glad I got something accomplished. I think finishing this project and moving on to something else will be re-invigorating.
