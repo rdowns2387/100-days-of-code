@@ -35,3 +35,9 @@
 **Today's Progress**: App is working, and even added in the percentage of meals cooked to date (out of the day of the year x 3). Spent lunch working out some styling, only half applied so far. 
 
 **Thoughts:** Today was a bit of a rush day, but I'm glad I got something accomplished. I think finishing this project and moving on to something else will be re-invigorating.
+
+### Day 5: January 10, 2017
+
+**Today's Progress**: I think I'm ready to say done on this one. Still not animating exactly how I want it to, but it does work... Might come back to this in the future and add more features. Could be pretty cool 
+
+**Thoughts:** Definitely needing to switch up projects. I think this turned out okay, but spanned on for to many days and I kind of lost interest.
