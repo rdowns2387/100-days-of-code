@@ -41,3 +41,9 @@
 **Today's Progress**: I think I'm ready to say done on this one. Still not animating exactly how I want it to, but it does work... Might come back to this in the future and add more features. Could be pretty cool 
 
 **Thoughts:** Definitely needing to switch up projects. I think this turned out okay, but spanned on for to many days and I kind of lost interest.
+
+### Day 6: January 16, 2017
+
+**Today's Progress**: Whoooops, missed a few days... To be honest, kind of got distracted by other things / haven't come up with a new project to keep myself consistently working. Have done some thinking though and want to try some freelance proposals. Getting through a succinct Flexbox tutorial today.  
+
+**Thoughts:** Taking notes seems to really help staying engaged. And is a helpful reference for later. Once I finish the Flexbox tutorials, I want to apply it to the food tracker app.
